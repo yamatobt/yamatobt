@@ -1,37 +1,64 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Phuwadon</h1>
+<h1 align="center">
+  Hi there 👋 I'm Phuwadon
+</h1>
+
 <p align="center">
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="50%" />
-
-## About Me
-- ชอบดูซีรี่ย์เป็นชีวิตจิตใจ
-- Basic HTML CSS PHP 
-- ชอบเล่นเกม
-## Experience
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" />
-
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="40" />
 </p>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
-
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="70%">
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" />
+---
 
+## 👨‍💻 About Me
+
+- 🎬 ชอบดูซีรีส์เป็นชีวิตจิตใจ
+- 💻 มีพื้นฐานการพัฒนาเว็บไซต์ด้วย **HTML, CSS และ PHP**
+- 🎮 ชอบเล่นเกม
+- 📚 กำลังศึกษาและพัฒนาทักษะด้าน Web Development
+
+---
+
+## 🚀 Skills
+
+### Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" />
 </p>
 
-## Connect with Me
+### Frontend Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+</p>
+
+### Tools & Software
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
+## 📫 Contact Me
+
 <p align="center">
   <a href="mailto:phuwadon_wo@live.rmutl.ac.th">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="50" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="50">
   </a>
 </p>
 
-
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
